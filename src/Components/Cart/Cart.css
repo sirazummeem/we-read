@@ -1,0 +1,12 @@
+.total {
+  font-size: larger;
+  color: black;
+  font-weight: bold;
+}
+.order {
+  font-size: larger;
+  font-weight: bold;
+}
+.cart-body {
+  margin-left: 10px;
+}
